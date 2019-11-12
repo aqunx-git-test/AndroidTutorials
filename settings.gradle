@@ -1,0 +1,2 @@
+include ':app', ':hello_toast'
+rootProject.name='AndroidTutorials'
